@@ -4,7 +4,7 @@ I am a Front-End Web Developer <br>I am currently learning back-end development<
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Harish Choudhary)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harish-choudhary-a86aa51b2)Harish Choudhary
 
 # 💻 Tech Stack:
 
