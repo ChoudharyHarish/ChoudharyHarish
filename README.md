@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I am a Full Stack Web Developer <br>I am currently learning back-end development<br>I am looking to collabrate with web development projects.
+I am a Full Stack Web Developer <br>I am currently doing full stack projects.<br>I am looking to collabrate with web development projects.
 
 ## 🌐 Socials:
 
